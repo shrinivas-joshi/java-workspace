@@ -42,7 +42,7 @@ public class LinkedList {
      * By the time, fast pointer reaches end of the list, slow pointer reaches the middle node
      * In case where we have even number of nodes, we get two middle nodes, the second one is
      *  selected as the middle node.
-     * 
+     *
      * */
     public Node findMiddleNode(){
         if (length < 3) return null;

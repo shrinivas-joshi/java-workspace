@@ -1,6 +1,6 @@
 package com.java.implementations.doublylinkedlist;
 
-public class DoublyLinkedListImpl {
+public class Main {
     public static void main(String[] args) {
 
         DoublyLinkedList dll = new DoublyLinkedList(2);
