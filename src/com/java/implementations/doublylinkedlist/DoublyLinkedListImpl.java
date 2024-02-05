@@ -1,4 +1,4 @@
-package com.java.implementations.linkedlist;
+package com.java.implementations.doublylinkedlist;
 
 public class DoublyLinkedListImpl {
     public static void main(String[] args) {
