@@ -1,4 +1,4 @@
-package com.java.implementations.stack;
+package com.java.datastructures.stack;
 
 import java.util.ArrayList;
 
@@ -20,7 +20,7 @@ public class Stack<T> {
         return stackList.isEmpty();
     }
 
-    public int size() { return stackList.size(); };
+    public int size() { return stackList.size(); }
 
     public T peek(){
         if (isEmpty()){
@@ -46,5 +46,6 @@ public class Stack<T> {
             return element;
         }
     }
+
 
 }

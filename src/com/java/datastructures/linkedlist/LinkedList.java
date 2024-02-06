@@ -1,4 +1,4 @@
-package com.java.implementations.linkedlist;
+package com.java.datastructures.linkedlist;
 
 public class LinkedList {
     private Node head;
